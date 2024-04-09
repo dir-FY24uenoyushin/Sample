@@ -1,6 +1,7 @@
 package sample;
 
 public class ArraySample {
+
     public static void main(String[] args) {
         var numbers = new int[5];
 
@@ -13,4 +14,5 @@ public class ArraySample {
             System.out.println(numbers[i]);
         }
     }
+
 }
